@@ -1,6 +1,6 @@
 # Career OS design and specification workspace
 
-The hosted repository is private at `kj6dev/jeffrey` on GitHub. `develop` is the default working branch. Commit project documents, trial outputs, and import provenance. Keep `experiments/framework-sources/` untracked: it contains reproducible upstream checkouts and local binaries; pinned revisions and setup commands are documented in `experiments/shared/frameworks.md`.
+The hosted repository is public at `kj6dev/jeffrey` on GitHub. `develop` is the default working branch. Commit project documents, trial outputs, and import provenance. Keep `experiments/framework-sources/` untracked: it contains reproducible upstream checkouts and local binaries; pinned revisions and setup commands are documented in `experiments/shared/frameworks.md`.
 
 `docs/` contains the broader project corpus: background, career direction, principles, decisions, v0 contract, and deferred capabilities. `runtime/` contains proposed behavior instructions and blank design templates, not live employer state. `evals/` contains the packaged validation outline. Read `docs/career-direction.md`, `docs/v0-contract.md`, `docs/decisions.md`, and `docs/import-reconciliation.md` before changing the design. Future capabilities are candidates, not authorized implementation tasks.
 
