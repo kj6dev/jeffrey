@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*.tmp
+.env
+.env.*
+private/
+work-state/
+
+# Reproducible upstream checkouts and local build outputs; see experiments/shared/frameworks.md.
+experiments/framework-sources/
+__pycache__/
+*.pyc

@@ -1,0 +1,118 @@
+{
+  "source_chat": "AI Career Direction",
+  "conversation_id": "6a9ae9ff-8710-83e8-9874-4ed6e09af061",
+  "source_turn": "a100dfc3-8c75-4a12-9b65-1c34072375cf",
+  "archive_sha256": "90c58dc44140a1f930a016dd2afc1356c0bb55a463b44e28cabb52d3b46758e6",
+  "files": [
+    {
+      "source": "career-os/AGENTS.md",
+      "destination": "imports/2026-09-08-career-os/AGENTS.original.md",
+      "sha256": "59148c2a7658ef56410260d68ba4e68a973b6a7a27bb1714801eece6087e5918"
+    },
+    {
+      "source": "career-os/.gitignore",
+      "destination": ".gitignore",
+      "sha256": "5d4ad30609508703aab4bbb7d249f78b29a8da391b15acad894db37d25087df8"
+    },
+    {
+      "source": "career-os/README.md",
+      "destination": "README.md",
+      "sha256": "c33722b62490ab3ca1b59a6e3408624efbf42eb6579e0e89c7faa4385f3769d8"
+    },
+    {
+      "source": "career-os/CHANGELOG.md",
+      "destination": "CHANGELOG.md",
+      "sha256": "419cb01e3cc4c6ba9499a426ac11bd61c3866837cb5f5489a1286aa8afa767f9"
+    },
+    {
+      "source": "career-os/MANIFEST.md",
+      "destination": "MANIFEST.md",
+      "sha256": "ba7d6eed2be29f609e77de542eaf7c7e9b9b5323651d4c427ac24e4f6612ad50"
+    },
+    {
+      "source": "career-os/docs/documentation-strategy.md",
+      "destination": "docs/documentation-strategy.md",
+      "sha256": "114bb0dbc13590212468c5924574f08d0e92dce9f2b6443494053532cd79b2b4"
+    },
+    {
+      "source": "career-os/docs/design-principles.md",
+      "destination": "docs/design-principles.md",
+      "sha256": "54ea8735cdd964626e90b433c1a4dd34102ad2f47afbea86a22f6ec8f840ae6d"
+    },
+    {
+      "source": "career-os/docs/career-direction.md",
+      "destination": "docs/career-direction.md",
+      "sha256": "cea1b8d29c1dd866a0d0c13cfcf39e68648180ee552eef378c230cfe0504afce"
+    },
+    {
+      "source": "career-os/docs/v0-contract.md",
+      "destination": "docs/v0-contract.md",
+      "sha256": "8810bcd6e38fb91db2b1a1d92639738cedb7d8f212e39539853ff81309fe8c42"
+    },
+    {
+      "source": "career-os/docs/decisions.md",
+      "destination": "docs/decisions.md",
+      "sha256": "df46560aa87a3db9a69533e959a97e55e50ee0138e74b5392b02b7f080b7f7d5"
+    },
+    {
+      "source": "career-os/docs/background.md",
+      "destination": "docs/background.md",
+      "sha256": "e98c26d2aa99e3f848b5bcbf9a9fddcac32fc32be9944d603a66e00cb76f55f1"
+    },
+    {
+      "source": "career-os/docs/future-capabilities.md",
+      "destination": "docs/future-capabilities.md",
+      "sha256": "55d31f1e534123a898ce56b8e05def290c0cb9ea52fac1289f50b43c2a7f675c"
+    },
+    {
+      "source": "career-os/runtime/behavior-instructions.md",
+      "destination": "runtime/behavior-instructions.md",
+      "sha256": "86835e76620c39ef3fc31b476340172d75f3725a291aea3aca5b2b83b38e5a39"
+    },
+    {
+      "source": "career-os/experiments/astra-review-prompt.md",
+      "destination": "experiments/astra-review-prompt.md",
+      "sha256": "f9a2dc17be5587201a096e2af54df7266b01d684755ecbc571b5938c20f949d5"
+    },
+    {
+      "source": "career-os/experiments/spec-kit-spdd-comparison.md",
+      "destination": "experiments/spec-kit-spdd-comparison.md",
+      "sha256": "ac62add69fbb9db5d5a1e5184b9d508f6cbea577ed9b03856983ab781e69d1a8"
+    },
+    {
+      "source": "career-os/experiments/README.md",
+      "destination": "experiments/README.md",
+      "sha256": "1ca6d0cf05c47e13dc5ba26b1fa82125ee22f4b074a5ffb78f43b9b565977145"
+    },
+    {
+      "source": "career-os/experiments/astra-review-response.md",
+      "destination": "experiments/astra-review-response.md",
+      "sha256": "417fa46b561b5fc133ab24f7f2b21a90ec8eb2ceeb3d5486ecac1220f6d5747b"
+    },
+    {
+      "source": "career-os/evals/scenarios.md",
+      "destination": "evals/scenarios.md",
+      "sha256": "e008db0398e1aa855c43ee62eee01a1a59ee52e90b282d317c5caa6309b8aa01"
+    },
+    {
+      "source": "career-os/evals/test-protocol.md",
+      "destination": "evals/test-protocol.md",
+      "sha256": "3bbc43f7d557a2ff55ac48768b76c0a093591de82a79b25e18e8c8be69992468"
+    },
+    {
+      "source": "career-os/runtime/templates/Active Work.md",
+      "destination": "runtime/templates/Active Work.md",
+      "sha256": "f19d29eb738e6581d1514e6e11924aec778d32199b869b7deabb8917e774634e"
+    },
+    {
+      "source": "career-os/runtime/templates/Context.md",
+      "destination": "runtime/templates/Context.md",
+      "sha256": "e0c2fa9b5fcec6abd323f44492771442967361f2d886664d87114360ecf02d0d"
+    },
+    {
+      "source": "career-os/runtime/templates/Outcome Log.md",
+      "destination": "runtime/templates/Outcome Log.md",
+      "sha256": "c57f84836e3f2b08080b770ed1d66efeafe7290dd52dee93c00efc61813f3dbe"
+    }
+  ]
+}

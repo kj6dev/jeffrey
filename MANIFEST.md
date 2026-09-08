@@ -1,0 +1,23 @@
+# Repository contents
+
+- `.gitignore`
+- `AGENTS.md`
+- `CHANGELOG.md`
+- `README.md`
+- `docs/background.md`
+- `docs/career-direction.md`
+- `docs/decisions.md`
+- `docs/design-principles.md`
+- `docs/documentation-strategy.md`
+- `docs/future-capabilities.md`
+- `docs/v0-contract.md`
+- `evals/scenarios.md`
+- `evals/test-protocol.md`
+- `experiments/README.md`
+- `experiments/astra-review-prompt.md`
+- `experiments/astra-review-response.md`
+- `experiments/spec-kit-spdd-comparison.md`
+- `runtime/behavior-instructions.md`
+- `runtime/templates/Active Work.md`
+- `runtime/templates/Context.md`
+- `runtime/templates/Outcome Log.md`
