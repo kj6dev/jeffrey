@@ -18,7 +18,7 @@ Author-published method: https://martinfowler.com/articles/structured-prompt-dri
 Source identity assumption: this is the intended SPDD; handoff names acronym only. No other SPDD process substituted silently.
 Pinned checkout: 59669ac18c1c0bdee76b780771ac51567a73d52c
 Local CLI reports v0.0.0-20260821063729-59669ac18c1c, source-built Go binary. Commit is the reproducible identity; not claimed latest stable tag.
-Built with `go build -o /Users/bryancostanza/Developer/jeffrey/experiments/framework-sources/bin/openspdd ./cmd/openspdd` from pinned checkout.
+Built with `go build -o /path/to/jeffrey/experiments/framework-sources/bin/openspdd ./cmd/openspdd` from pinned checkout.
 From experiments/spdd: `../framework-sources/bin/openspdd init --tool codex`, then `generate spdd-analysis --tool codex` and `generate spdd-reasons-canvas --tool codex`. No --all, generation/implementation command or global PATH edit.
 Instructions read/followed: internal/templates/data/core/spdd-analysis.md and spdd-reasons-canvas.md, plus README and author method. Generated Codex skills preserve those templates. Analysis and canvas produced by current assistant, not a separate blind agent run.
 

@@ -12,9 +12,9 @@
 │  Specify Project Setup                                                       │
 │                                                                              │
 │  Project         spec-kit                                                    │
-│  Working Path    /Users/bryancostanza/Developer/jeffrey                      │
+│  Working Path    /path/to/jeffrey                      │
 │  Target Path                                                                 │
-│  /Users/bryancostanza/Developer/jeffrey/experiments/spec-kit                 │
+│  /path/to/jeffrey/experiments/spec-kit                 │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 Selected coding agent integration: codex

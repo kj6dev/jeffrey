@@ -24,4 +24,4 @@ Future methodology experiments should:
 - be evaluated for clarity, implementation readiness, and maintenance burden
 - produce changes only when they materially improve canonical docs
 
-Adrien's separate process-free documentation project may later be compared against this document set. It should not be introduced as a third simultaneous live methodology merely to make Career OS conform to it.
+User's separate process-free documentation project may later be compared against this document set. It should not be introduced as a third simultaneous live methodology merely to make Career OS conform to it.

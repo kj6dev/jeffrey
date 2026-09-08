@@ -4,7 +4,7 @@
 
 This is the complete context and prompt for a single high-leverage review by a frontier model.
 
-The goal is **not** to generate more ideas indiscriminately. The goal is to pressure-test a deliberately constrained design for a personal Career OS that helps Adrien make the best use of roughly 40 work hours per week while increasing mobility toward a much better future work environment.
+The goal is **not** to generate more ideas indiscriminately. The goal is to pressure-test a deliberately constrained design for a personal Career OS that helps User make the best use of roughly 40 work hours per week while increasing mobility toward a much better future work environment.
 
 Treat this file as the current source of truth. Challenge it where justified, but do not expand scope casually.
 
@@ -12,19 +12,19 @@ Treat this file as the current source of truth. Challenge it where justified, bu
 
 # 1. The problem
 
-Adrien is an iOS/software engineer whose work has shifted substantially toward AI tooling and AI-assisted software development.
+User is an iOS/software engineer whose work has shifted substantially toward AI tooling and AI-assisted software development.
 
-He learns quickly, tends to develop systems and reusable abstractions, and can focus intensely for long periods. Historically, he has often spent substantial personal time learning and experimenting with AI because his job did not give him enough access or scope to do that at work.
+The user learns quickly, tends to develop systems and reusable abstractions, and can focus intensely for long periods. Historically, the user has often spent substantial personal time learning and experimenting with AI because their job did not give them enough access or scope to do that at work.
 
-That has changed. He now has meaningful AI-related work at his current job, including an unusually ambitious internal AI tooling mandate that he helped create.
+That has changed. The user now has meaningful AI-related work at their current job, including an unusually ambitious internal AI tooling mandate that the user helped create.
 
 The current situation is best summarized as:
 
 > **Great problem, weak environment.**
 
-The work itself is increasingly aligned with what Adrien wants to do, but the surrounding environment has major limitations:
+The work itself is increasingly aligned with what User wants to do, but the surrounding environment has major limitations:
 
-- relatively low idea density compared with what he wants
+- relatively low idea density compared with what the user wants
 - relatively low permeability of ideas between peers
 - heavy friction around model/tool access and AI spend
 - slow organizational movement
@@ -34,7 +34,7 @@ The work itself is increasingly aligned with what Adrien wants to do, but the su
 
 The goal is **not** merely to maximize productivity at the current employer.
 
-The goal is to use the current job as well as possible while increasing Adrien's ability to move into a much stronger long-term environment.
+The goal is to use the current job as well as possible while increasing User's ability to move into a much stronger long-term environment.
 
 ---
 
@@ -42,7 +42,7 @@ The goal is to use the current job as well as possible while increasing Adrien's
 
 The desired future work environment was decomposed interactively rather than guessed from a job title.
 
-Adrien is most drawn to:
+User is most drawn to:
 
 ## Work shape
 
@@ -59,7 +59,7 @@ Adrien is most drawn to:
 - **high idea density**
 - **high idea permeability**
 - exploratory peers constantly sharing experiments, hacks, techniques, papers, failures, and prototypes
-- a strong peer gradient: colleagues who regularly expose Adrien to things he did not know
+- a strong peer gradient: colleagues who regularly expose User to things the user did not know
 - low friction from idea -> experiment -> prototype -> real use
 - meaningful experimental bandwidth
 - access to current models/tools/compute
@@ -68,13 +68,13 @@ Adrien is most drawn to:
 
 ## Motivational clarifications
 
-Adrien does **not** primarily want:
+User does **not** primarily want:
 - title for its own sake
 - formal authority for its own sake
 - impact measured only as number of end users
 - craftsmanship divorced from consequence
 
-He does want:
+The user does want:
 - agency
 - interesting and/or importantly better systems
 - strong peers
@@ -85,24 +85,24 @@ He does want:
 
 A useful summary:
 
-> **Build capability-multiplying systems using current or near-frontier technology, among curious builders who continually expand Adrien's own thinking, in an environment where promising ideas can rapidly become real.**
+> **Build capability-multiplying systems using current or near-frontier technology, among curious builders who continually expand User's own thinking, in an environment where promising ideas can rapidly become real.**
 
 ---
 
 # 3. Career mobility
 
-Career OS must not locally optimize Adrien into becoming extremely effective only at his current employer.
+Career OS must not locally optimize User into becoming extremely effective only at their current employer.
 
 It must help improve mobility toward the target habitat.
 
 Career mobility currently decomposes into:
 
-- **Eligibility** — can Adrien actually do the target jobs?
-- **Evidence** — can he prove it?
+- **Eligibility** — can User actually do the target jobs?
+- **Evidence** — can the user prove it?
 - **Legibility** — will the market recognize the evidence?
-- **Access** — can he reach the environments and people where those jobs exist?
-- **Readiness** — can he move when the right opportunity appears?
-- **Selection judgment** — can he tell whether a job actually has the habitat he wants?
+- **Access** — can the user reach the environments and people where those jobs exist?
+- **Readiness** — can the user move when the right opportunity appears?
+- **Selection judgment** — can the user tell whether a job actually has the habitat the user wants?
 
 The work-side system should consume a sanitized **market reference** derived externally from job-posting analysis, but it should not itself run a job search.
 
@@ -110,14 +110,14 @@ The work-side system should consume a sanitized **market reference** derived ext
 
 # 4. Core design principle
 
-Adrien is the scarce principal.
+User is the scarce principal.
 
 The AI system exists to protect and amplify:
-- his judgment
-- his deep-focus capacity
-- his ability to create
-- his ability to build relationships
-- his ability to learn from high-value work
+- their judgment
+- their deep-focus capacity
+- their ability to create
+- their ability to build relationships
+- their ability to learn from high-value work
 
 The system should absorb:
 - coordination
@@ -145,7 +145,7 @@ But the design should not imitate those human roles literally.
 
 The primary interface is one persistent **Career CoS** conversation.
 
-This is where Adrien asks things like:
+This is where User asks things like:
 - What should I work on?
 - How deeply should I engage with this?
 - Is this worth my time?
@@ -196,7 +196,7 @@ Then the system recalibrates over time.
 Notice has three major modes:
 
 ### Reactive sensing
-What entered Adrien's world?
+What entered User's world?
 
 Possible sources:
 - Slack
@@ -217,7 +217,7 @@ Examples:
 - org initiatives
 - team charter
 - quarterly allocations
-- Adrien's quarterly goals
+- User's quarterly goals
 - promotion expectations
 - active commitments
 - target career direction
@@ -226,7 +226,7 @@ Examples:
 What opportunity exists that nobody explicitly assigned?
 
 Examples:
-- a shared AI discussion where Adrien could add useful context
+- a shared AI discussion where User could add useful context
 - a recurring technical failure pattern
 - a new tool or approach worth trying
 - a repeated friction point worth systemizing
@@ -239,7 +239,7 @@ Notice should distinguish:
 - queue for later
 - interrupt now
 
-The system should know more than it tells Adrien.
+The system should know more than it tells User.
 
 ---
 
@@ -249,7 +249,7 @@ Value does **not** assign a simplistic priority score.
 
 Its job is:
 
-> **How much of Adrien should this WorkObject get, and in what mode?**
+> **How much of User should this WorkObject get, and in what mode?**
 
 Current value dimensions:
 
@@ -294,7 +294,7 @@ A key principle:
 
 Prepare answers:
 
-> **What needs to be true before Adrien starts doing this?**
+> **What needs to be true before User starts doing this?**
 
 Current subproblems:
 
@@ -303,7 +303,7 @@ Current subproblems:
 - missing knowledge
 - contribution hypothesis
 - what can be delegated to AI
-- what requires Adrien's judgment
+- what requires User's judgment
 - stopping rule for preparation
 - what should be captured afterward
 
@@ -328,7 +328,7 @@ Risk: overlearning irrelevant feature internals.
 Prepare should:
 - reconstruct enough domain context to judge the change
 - use AI to inspect surrounding code/tests/history
-- focus Adrien on architecture, correctness, maintainability, and judgment
+- focus User on architecture, correctness, maintainability, and judgment
 - avoid turning every review into a full codebase-learning exercise
 
 ---
@@ -341,7 +341,7 @@ Career OS should route execution rather than hover.
 
 Possible routing:
 
-- Adrien does it directly
+- User does it directly
 - project-specific agent handles it
 - research worker handles a bounded investigation
 - repo/code worker handles technical inspection
@@ -358,7 +358,7 @@ The Career CoS should retain only enough context to know:
 
 Extract asks:
 
-> **What changed because Adrien did this?**
+> **What changed because User did this?**
 
 Possible outputs:
 
@@ -389,7 +389,7 @@ Current minimal semantic model:
 Anything that may deserve attention.
 
 ## EngagementDecision
-How Adrien should engage with a WorkObject right now.
+How User should engage with a WorkObject right now.
 
 ## Evidence
 Something that actually happened and may matter later.
@@ -420,7 +420,7 @@ The system should compare:
 > **Predicted value vs actual value**
 
 Examples:
-- mentor meetings may consistently produce more value than Adrien predicts
+- mentor meetings may consistently produce more value than User predicts
 - architecture RFCs may look strategic but repeatedly produce little
 - certain recurring review patterns may consistently produce reusable system opportunities
 
@@ -429,10 +429,10 @@ This is how the system becomes personal rather than remaining generic career adv
 Two separate recalibrations matter:
 
 ## Performance recalibration
-Is Adrien getting better at selecting and executing valuable work?
+Is User getting better at selecting and executing valuable work?
 
 ## Mobility recalibration
-Is Adrien becoming more capable of entering the target career habitat?
+Is User becoming more capable of entering the target career habitat?
 
 ---
 
@@ -444,9 +444,9 @@ Two processes cut across the lifecycle.
 
 Question:
 
-> **Should Adrien ever have to do this exact kind of thinking again?**
+> **Should User ever have to do this exact kind of thinking again?**
 
-But it must resist Adrien's tendency to overbuild systems.
+But it must resist User's tendency to overbuild systems.
 
 The standard should be:
 - repeated enough
@@ -461,7 +461,7 @@ The system should be allowed to say:
 
 Question:
 
-> **Is there something newly possible or newly relevant that would materially improve this work or Adrien's understanding?**
+> **Is there something newly possible or newly relevant that would materially improve this work or User's understanding?**
 
 This includes:
 - current AI tooling
@@ -492,7 +492,7 @@ Extract reusable patterns without creating creepy dossiers or personality models
 ## Shared watering-hole sensing
 
 Monitor relevant shared channels for:
-- open discussions where Adrien has useful expertise
+- open discussions where User has useful expertise
 - interesting information worth volunteering
 - cross-org collaboration opportunities
 - places where "have we considered X?" could be genuinely useful
@@ -508,7 +508,7 @@ vs
 
 # 15. Market reference
 
-Adrien already has a job-posting ingestion/process pipeline.
+User already has a job-posting ingestion/process pipeline.
 
 That should eventually export a sanitized reference such as:
 
@@ -522,7 +522,7 @@ Career OS can use that as external calibration without directly doing job search
 
 Example:
 
-> This Workday project closes a competency gap that appears repeatedly in the kinds of roles Adrien wants.
+> This the employer project closes a competency gap that appears repeatedly in the kinds of roles User wants.
 
 ---
 
@@ -606,7 +606,7 @@ Use it manually on real work first.
 Add:
 - state when the system "should have known that"
 - a sensor when the missing context repeatedly comes from the same source
-- a skill when Adrien keeps asking for the same reasoning pattern
+- a skill when User keeps asking for the same reasoning pattern
 - a subagent when bounded work is too large for the CoS itself
 
 ---
@@ -649,7 +649,7 @@ Workers return structured results to the CoS.
 
 # 19. Documentation / process
 
-Adrien has been experimenting with:
+User has been experimenting with:
 - GitHub Spec Kit
 - SPDD / structured prompt-driven development
 - BMAD
@@ -662,7 +662,7 @@ Current proposed sequence:
 2. one frontier-model critique
 3. freeze v0 again
 4. run a spec framework as an experiment
-5. compare framework artifacts with Adrien's process-free document taxonomy
+5. compare framework artifacts with User's process-free document taxonomy
 6. keep only the durable documents that actually help
 7. then implement with Codex/Claude/Cursor
 
@@ -674,7 +674,7 @@ Development frameworks may be temporary exoskeletons.
 
 # 20. Use of frontier models
 
-Adrien does **not** currently have frontier models like Astra available inside the employer environment.
+User does **not** currently have frontier models like Astra available inside the employer environment.
 
 Therefore:
 
@@ -700,9 +700,9 @@ Use these to test whether the design is coherent.
 
 ## Scenario A — Mentor meeting
 
-Adrien has a mentor meeting tomorrow.
+User has a mentor meeting tomorrow.
 
-He tends to underprepare.
+The user tends to underprepare.
 
 Career OS should:
 - reconstruct prior meetings
@@ -714,7 +714,7 @@ Career OS should:
 
 ## Scenario B — Unfamiliar PR
 
-Adrien must review code for an Expenses feature he does not care to master.
+User must review code for an Expenses feature the user does not care to master.
 
 Career OS should:
 - identify the review as a real obligation
@@ -726,7 +726,7 @@ Career OS should:
 
 ## Scenario C — Lightning talk
 
-Adrien has a short presentation.
+User has a short presentation.
 
 Career OS should consider:
 - audience
@@ -739,11 +739,11 @@ Career OS should consider:
 
 A discussion appears in a company-wide AI channel.
 
-Adrien has relevant knowledge.
+User has relevant knowledge.
 
 Career OS should decide:
-- whether he has something genuinely useful to add
-- whether the discussion connects to his target direction
+- whether the user has something genuinely useful to add
+- whether the discussion connects to their target direction
 - whether silence is better
 - whether this is a meaningful relationship/access opportunity
 
@@ -759,7 +759,7 @@ Career OS should:
 
 ## Scenario F — New technique
 
-Adrien is implementing an agent workflow.
+User is implementing an agent workflow.
 
 A newer approach or framework may exist.
 
@@ -860,7 +860,7 @@ Do **not** propose extra abstractions merely because they are interesting.
 
 ## C. Attack v0
 
-Assume Adrien builds the current v0 and uses it for six weeks.
+Assume User builds the current v0 and uses it for six weeks.
 
 Describe the **five most likely reasons it becomes annoying, useless, misleading, or overengineered**.
 
@@ -884,7 +884,7 @@ Run the reduced v0 conceptually against the six representative scenarios.
 For each scenario:
 - what enters the system
 - what decision the system makes
-- what Adrien sees
+- what User sees
 - what gets persisted, if anything
 
 Keep each scenario compact.

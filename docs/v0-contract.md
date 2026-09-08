@@ -60,7 +60,7 @@ Open commitments: [Each promise, applicable real due date or unknown]
 [Material uncertainty, stopping condition and reassessment trigger when useful]
 ```
 
-Keep related promises in the case when that is clearest. Do not lose a promise because another promise or the event is complete. Optional relationship context belongs locally, not in a Person store. Immediate decisions may leave no retained case. S5 intervention enters Active Work only if Adrien commits.
+Keep related promises in the case when that is clearest. Do not lose a promise because another promise or the event is complete. Optional relationship context belongs locally, not in a Person store. Immediate decisions may leave no retained case. S5 intervention enters Active Work only if User commits.
 
 ### Outcome Log.md
 
@@ -97,7 +97,7 @@ Hard fail on any invented fact, dropped obligation, unsupported impact/mobility 
 1. Test Decide, Prepare and Close on the actual work-approved model with behavior-instructions.md and the synthetic pack. Supply synthetic current state and turns manually, capture actual responses, and inspect all six cases plus probes. Record actual model identity/settings when available so results have context. Completion: all hard gates checked against real responses, not expected examples.
 2. Address failures first by simplifying behavior-instructions.md or narrowing responsibility. Retest affected cases and commitment/data-boundary probes. Completion: no outstanding hard failure in the tested scope; no added execution infrastructure.
 3. Instantiate the three templates in the approved environment and rehearse exact human-approved manual edits, rejected proposals, unresolved closure and no-entry outcomes. Completion: current supplied files reflect only confirmed edits, with every unresolved promise intact.
-4. Agree a maintenance ceiling before real use and put that agreement in Context. Completion: Adrien's actual agreement is recorded, with a simplification trigger; no invented default.
+4. Agree a maintenance ceiling before real use and put that agreement in Context. Completion: User's actual agreement is recorded, with a simplification trigger; no invented default.
 5. Sample consequential real cases only within the approved environment. Record intended approach before advice and later results selectively. Completion: assess attention usefulness/harm, preparation omissions/reconstruction and memory upkeep; periodically compare expected/actual value without claiming delayed career success from immediate usefulness.
 
 Stop here. Tasks above are not executed by this handoff. Genuine dependencies: access to the actual work-approved model for task 1; maintenance agreement before real use. No further architecture or discovery is needed to start synthetic validation. Work exports still require applicable permission/review, and generic machinery remains subject to employer IP rules.

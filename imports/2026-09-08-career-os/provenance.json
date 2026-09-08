@@ -2,7 +2,7 @@
   "source_chat": "AI Career Direction",
   "conversation_id": "6a9ae9ff-8710-83e8-9874-4ed6e09af061",
   "source_turn": "a100dfc3-8c75-4a12-9b65-1c34072375cf",
-  "archive_sha256": "90c58dc44140a1f930a016dd2afc1356c0bb55a463b44e28cabb52d3b46758e6",
+  "archive_sha256": "a1c2bb43b5fa0f5e775388b02fbd3d6ae44bb3de0a4d0d4b638d50c3a2b55ca9",
   "files": [
     {
       "source": "career-os/AGENTS.md",
@@ -17,7 +17,7 @@
     {
       "source": "career-os/README.md",
       "destination": "README.md",
-      "sha256": "c33722b62490ab3ca1b59a6e3408624efbf42eb6579e0e89c7faa4385f3769d8"
+      "sha256": "16b28e869d6758b1dd7b81f1348c75fd50eb26093cb22e2d71a48a5e75064923"
     },
     {
       "source": "career-os/CHANGELOG.md",
@@ -32,32 +32,32 @@
     {
       "source": "career-os/docs/documentation-strategy.md",
       "destination": "docs/documentation-strategy.md",
-      "sha256": "114bb0dbc13590212468c5924574f08d0e92dce9f2b6443494053532cd79b2b4"
+      "sha256": "803695c26dbe9f53abbb6d6c80ce9d959835d0e426a0ba35c17ae942bee6b80c"
     },
     {
       "source": "career-os/docs/design-principles.md",
       "destination": "docs/design-principles.md",
-      "sha256": "54ea8735cdd964626e90b433c1a4dd34102ad2f47afbea86a22f6ec8f840ae6d"
+      "sha256": "a6cc92c2b84813961c6654dd5c9be0ec3a9e42bc2612307f970295540cf20bfb"
     },
     {
       "source": "career-os/docs/career-direction.md",
       "destination": "docs/career-direction.md",
-      "sha256": "cea1b8d29c1dd866a0d0c13cfcf39e68648180ee552eef378c230cfe0504afce"
+      "sha256": "94d48a54b9c880fb5a919bbaa7f96fe39a04e8571253d1c30182613c36a53a2b"
     },
     {
       "source": "career-os/docs/v0-contract.md",
       "destination": "docs/v0-contract.md",
-      "sha256": "8810bcd6e38fb91db2b1a1d92639738cedb7d8f212e39539853ff81309fe8c42"
+      "sha256": "3c3f25517992f98ccf2269dec3b47ec6d9e69050a3d6855f6b38753886ce9383"
     },
     {
       "source": "career-os/docs/decisions.md",
       "destination": "docs/decisions.md",
-      "sha256": "df46560aa87a3db9a69533e959a97e55e50ee0138e74b5392b02b7f080b7f7d5"
+      "sha256": "34a7664dee40a3c46ec4bc08beab7c661ae9011711f3e5567229afd5c37f07d5"
     },
     {
       "source": "career-os/docs/background.md",
       "destination": "docs/background.md",
-      "sha256": "e98c26d2aa99e3f848b5bcbf9a9fddcac32fc32be9944d603a66e00cb76f55f1"
+      "sha256": "d83fae7cfaf76f66dd7bedbe5a1489ff95d794cd767e2aa32ae40b899f1a7644"
     },
     {
       "source": "career-os/docs/future-capabilities.md",
@@ -67,12 +67,12 @@
     {
       "source": "career-os/runtime/behavior-instructions.md",
       "destination": "runtime/behavior-instructions.md",
-      "sha256": "86835e76620c39ef3fc31b476340172d75f3725a291aea3aca5b2b83b38e5a39"
+      "sha256": "35a79b1d86fc0e7c7f6f1c84ec839bd16d8919d976c2d802e6a1759ddd45dc85"
     },
     {
       "source": "career-os/experiments/astra-review-prompt.md",
       "destination": "experiments/astra-review-prompt.md",
-      "sha256": "f9a2dc17be5587201a096e2af54df7266b01d684755ecbc571b5938c20f949d5"
+      "sha256": "534271422a23ec1df0a775106195a7303cd1f4c5f555b3fd67f345f2ab6095a5"
     },
     {
       "source": "career-os/experiments/spec-kit-spdd-comparison.md",
@@ -87,12 +87,12 @@
     {
       "source": "career-os/experiments/astra-review-response.md",
       "destination": "experiments/astra-review-response.md",
-      "sha256": "417fa46b561b5fc133ab24f7f2b21a90ec8eb2ceeb3d5486ecac1220f6d5747b"
+      "sha256": "86065ea3358c91aa843227c8aef173e62cd8aab2c04a140a36a517332d6c5702"
     },
     {
       "source": "career-os/evals/scenarios.md",
       "destination": "evals/scenarios.md",
-      "sha256": "e008db0398e1aa855c43ee62eee01a1a59ee52e90b282d317c5caa6309b8aa01"
+      "sha256": "b17247c589f8ec1fec4b1cffcd9a5d266d4dcff8e271e360aabb6f61cd03d117"
     },
     {
       "source": "career-os/evals/test-protocol.md",
@@ -114,5 +114,6 @@
       "destination": "runtime/templates/Outcome Log.md",
       "sha256": "c57f84836e3f2b08080b770ed1d66efeafe7290dd52dee93c00efc61813f3dbe"
     }
-  ]
+  ],
+  "transformation": "2026-09-08: user-requested generic identity labels; archive and source hashes describe the generic distribution, not the original download."
 }

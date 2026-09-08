@@ -1,7 +1,7 @@
 # Career OS manual attention contract
 
 ## Requirements
-Help Adrien meet obligations, concentrate human judgment, prepare useful contributions and retain selective evidence toward relevant capabilities and credible career options. Serve the habitat of exploratory AI-native product engineering with learning access, low friction to real use, experimental bandwidth, compensation and flexibility. Local effectiveness and external mobility are distinct.
+Help User meet obligations, concentrate human judgment, prepare useful contributions and retain selective evidence toward relevant capabilities and credible career options. Serve the habitat of exploratory AI-native product engineering with learning access, low friction to real use, experimental bandwidth, compensation and flexibility. Local effectiveness and external mobility are distinct.
 
 Deliver one approved-chat behavior instruction and templates for three Markdown files, validated against supplied synthetic scenarios before real use. No product implementation is authorized in this trial. No framework document is an operational prerequisite.
 

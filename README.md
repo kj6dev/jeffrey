@@ -2,7 +2,7 @@
 
 This workspace includes the broader ChatGPT repository package and the original specification trials. See [import reconciliation](docs/import-reconciliation.md) for provenance, document authority, and differences to resolve before synthetic validation.
 
-A small, inspectable AI-assisted system for helping Adrien allocate professional attention well, prepare for consequential work, preserve commitments and useful outcomes, and increase mobility toward a better long-term career habitat.
+A small, inspectable AI-assisted system for helping User allocate professional attention well, prepare for consequential work, preserve commitments and useful outcomes, and increase mobility toward a better long-term career habitat.
 
 ## Status
 
@@ -12,7 +12,7 @@ The next step is synthetic validation on the actual work-approved model before a
 
 ## Core thesis
 
-Adrien is the scarce principal. The system should spend AI effort to reduce reconstructive work and improve attention allocation while preserving Adrien's judgment for consequential decisions.
+User is the scarce principal. The system should spend AI effort to reduce reconstructive work and improve attention allocation while preserving User's judgment for consequential decisions.
 
 Career OS is **not**:
 - a generic productivity system
@@ -32,7 +32,7 @@ Career OS is **not**:
        Context        Active Work      Outcome Log
 
 Core behaviors:
-  Decide   -> what should Adrien do, how deeply, and why?
+  Decide   -> what should User do, how deeply, and why?
   Prepare  -> what context/prep is actually needed?
   Close    -> resolve commitments and retain only useful outcomes
 

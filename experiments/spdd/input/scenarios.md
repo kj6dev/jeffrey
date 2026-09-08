@@ -4,7 +4,7 @@ All names, sources, work, dates, and results below are fictional. Each scenario 
 
 ## Shared Context
 
-Direction: AI-native product engineering with exploratory peers, learning access, compensation and flexibility. Current allocation: fulfill release-review obligations before discretionary learning or internal visibility work. Standing constraint: human responsibility for approval is unchanged by AI assistance. External market calibration: none supplied; mobility and habitat quality unknown. Intended approaches below are synthetic evaluation inputs, not Adrien's actual views.
+Direction: AI-native product engineering with exploratory peers, learning access, compensation and flexibility. Current allocation: fulfill release-review obligations before discretionary learning or internal visibility work. Standing constraint: human responsibility for approval is unchanged by AI assistance. External market calibration: none supplied; mobility and habitat quality unknown. Intended approaches below are synthetic evaluation inputs, not User's actual views.
 
 ## S1 Mentor meeting
 

@@ -8,7 +8,7 @@
 ## User Scenarios & Testing
 
 ### User Story 1 - Decide responsible attention (Priority: P1)
-Adrien chooses do, decline, defer or delegate with appropriate human focus, depth, rationale, uncertainty and stopping condition. Substantial discretionary work names displaced work. Scout and Multiplier apply only where useful.
+User chooses do, decline, defer or delegate with appropriate human focus, depth, rationale, uncertainty and stopping condition. Substantial discretionary work names displaced work. Scout and Multiplier apply only where useful.
 
 Why this priority: obligations and appropriate judgment precede discretionary benefit.
 Independent Test: run S2, S4, S5 and S6 without requiring Prepare or Close first.
@@ -19,7 +19,7 @@ Acceptance Scenarios:
 4. Given S6's bottleneck, when considering switching, then compare bounded alternatives including setup burden and displaced optional work.
 
 ### User Story 2 - Prepare bounded contribution (Priority: P1)
-Adrien receives the minimum useful context, gaps, contribution hypothesis and preparation with a stopping rule.
+User receives the minimum useful context, gaps, contribution hypothesis and preparation with a stopping rule.
 
 Why this priority: prevent reconstruction while preserving adequate understanding.
 Independent Test: run S1 and S3 from supplied context alone.
@@ -29,7 +29,7 @@ Acceptance Scenarios:
 3. Given missing inputs, when preparing, then ask only about gaps that can materially change advice and make conditional limits explicit.
 
 ### User Story 3 - Close without losing obligations (Priority: P1)
-Adrien reconciles commitments, selectively remembers evidence and may finish with no outcome entry.
+User reconciles commitments, selectively remembers evidence and may finish with no outcome entry.
 
 Why this priority: no earlier story is safe in real use without retained obligations.
 Independent Test: supply closure turns directly with corresponding Active Work facts.

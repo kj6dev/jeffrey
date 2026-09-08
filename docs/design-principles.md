@@ -1,7 +1,7 @@
 # Design principles
 
-1. **Adrien is the scarce principal.**
-   Optimize where his judgment and deep-focus capacity are spent.
+1. **User is the scarce principal.**
+   Optimize where their judgment and deep-focus capacity are spent.
 
 2. **Attention allocation over task throughput.**
    The system exists to help choose the right engagement, not maximize completed tasks.
@@ -10,7 +10,7 @@
    Make excellent consequential work legible; do not optimize performative participation.
 
 4. **Know more than you surface.**
-   A useful CoS may hold context silently. It should not notify or question Adrien merely because it can.
+   A useful CoS may hold context silently. It should not notify or question User merely because it can.
 
 5. **Ask only questions that can change the recommendation.**
    Avoid turning every interaction into a questionnaire.

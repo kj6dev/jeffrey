@@ -1,6 +1,6 @@
 A. Objective
 
-Career OS optimizes the use of Adrien’s limited attention: meeting real work obligations, choosing where his judgment matters, and turning selected work into capabilities and credible options for a better environment.
+Career OS optimizes the use of User’s limited attention: meeting real work obligations, choosing where their judgment matters, and turning selected work into capabilities and credible options for a better environment.
 
 It does not optimize task throughput, internal visibility, exhaustive knowledge capture, or automation for its own sake.
 
@@ -13,7 +13,7 @@ B. Challenge the decomposition
 1. WorkObject is a useful envelope, but a dangerous database ambition
 A meeting, project, learning gap, and Slack thread are not equivalent units of work. Treating all noticed material as durable WorkObjects would create a second inbox and eventually a project-management system.
 
-Boundary: a WorkObject is an attention case, not a normalized representation of everything at work. Create one when Adrien needs an engagement decision or must retain a commitment. Reference underlying artifacts rather than copying them.
+Boundary: a WorkObject is an attention case, not a normalized representation of everything at work. Create one when User needs an engagement decision or must retain a commitment. Reference underlying artifacts rather than copying them.
 
 2. Engagement modes mix separate axes
 “Minimum sufficient / normal / deep” describe depth. “Leverage / strategic” describe mechanisms or significance. A strategic item may require only a short introduction; a mandatory review may require deep attention.
@@ -67,14 +67,14 @@ Represent open commitments explicitly within active work: next action, due date 
 8. Mobility is a lens, not an outcome the work system can fully observe
 Career direction belongs in Context. Mobility dimensions guide assessment, but the work runtime cannot infer external access, readiness, or habitat quality from internal accomplishments alone.
 
-Boundary: distinguish “this work may build a relevant capability” from “Adrien is becoming more employable.” The latter requires external calibration. Missing calibration means unknown, not automatically improving.
+Boundary: distinguish “this work may build a relevant capability” from “User is becoming more employable.” The latter requires external calibration. Missing calibration means unknown, not automatically improving.
 
 C. Five likely six-week failures
 
 Failure	Type	Smallest mitigation
-The assistant creates administrative work. Every request produces a questionnaire, engagement rubric, preparation plan, and extraction request. Adrien stops consulting it.	Conceptual, amplified by prompting	Default to a short recommendation. Ask only questions that could change it. Persist nothing unless it affects a future decision or commitment.
+The assistant creates administrative work. Every request produces a questionnaire, engagement rubric, preparation plan, and extraction request. User stops consulting it.	Conceptual, amplified by prompting	Default to a short recommendation. Ask only questions that could change it. Persist nothing unless it affects a future decision or commitment.
 It confidently reconstructs context it never received. Manual input is incomplete; the persistent chat is treated as reliable memory. Mentor prep and priority advice become subtly wrong.	Implementation and epistemic boundary	Files are authoritative; chat is not. Identify missing decision-critical context and state assumptions. “I don’t have the prior notes” is a valid output.
-Everything aligned with AI becomes strategic. The assistant flatters Adrien’s interests, justifies system-building, and makes local work sound like mobility.	Conceptual	Require a concrete outcome and plausible beneficiary. For substantial discretionary effort, identify what it displaces. Prefer a manual trial over a reusable system when recurrence or adoption is unproven.
+Everything aligned with AI becomes strategic. The assistant flatters User’s interests, justifies system-building, and makes local work sound like mobility.	Conceptual	Require a concrete outcome and plausible beneficiary. For substantial discretionary effort, identify what it displaces. Prefer a manual trial over a reusable system when recurrence or adoption is unproven.
 Memory becomes either clutter or amnesia. Exhaustive capture is unreadable; aggressive lossiness drops promises and the few observations needed for learning.	Conceptual and implementation	Keep active commitments separate from the selective outcome log. Close active work explicitly. Retain only a small sample of prediction/outcome pairs for recalibration.
 The system becomes another AI engineering project. Schemas, framework artifacts, runtime polishing, and prompt tuning consume the time it was meant to recover.	Implementation and incentive	No integrations or agent orchestration during the trial. Fix a setup and weekly maintenance budget in advance. If state maintenance exceeds the budget, remove fields or behaviors before adding automation.
 D. Smallest coherent v0
@@ -100,13 +100,13 @@ The chat is the interface, not the database. Start with manual loading and human
 No dedicated Person store. No standalone EngagementDecision collection: embed the current decision in active work. Preserve an older decision only when useful for evaluating it.
 
 Three behaviors
-Decide: What should Adrien do, how deeply, and why?
+Decide: What should User do, how deeply, and why?
 Prepare: Supply only the context and preparation needed for that decision.
 Close: Resolve commitments and propose a minimal outcome-log entry—or explicitly propose no entry.
 Do, Notice, and Remember remain conceptual boundaries, not separate implementations. Scout and multiplier checks are folded into these behaviors. Workers remain optional existing tools, not v0 infrastructure.
 
 Minimum operating contract
-Adrien owns decisions and approves durable changes.
+User owns decisions and approves durable changes.
 No autonomous communication, execution, or monitoring.
 No reconstructed facts without supporting input.
 No mandatory full rubric.
@@ -114,7 +114,7 @@ No automatic expansion into a task plan.
 A substantial discretionary recommendation names its tradeoff against current work.
 Preparation has a stopping rule.
 Minimum test of the thesis
-For a small sample of consequential cases, capture Adrien’s initial intended approach before advice and later ask:
+For a small sample of consequential cases, capture User’s initial intended approach before advice and later ask:
 
 Did the recommendation change the allocation of attention?
 Was that change useful, harmful, or still uncertain?
@@ -128,14 +128,14 @@ Added: explicit commitment closure and a tiny evaluation sample. Without these, 
 
 E. Scenario tests
 
-Scenario	Input	Decision	Adrien sees	Persist
+Scenario	Input	Decision	User sees	Persist
 A. Mentor meeting	Meeting purpose, available prior notes, open promises, recent work	Invest bounded preparation in one consequential question and relevant updates; identify missing history	A brief, 1–2 questions, promises to address—not a status script	New commitments; a consequential insight or introduction if one occurs
 B. Unfamiliar PR	Review request, change scope, risk context, approved code-tool findings if available	Meet review responsibility; depth follows failure risk, not interest in the feature. AI inspection does not substitute for adequate human understanding	Review focus, unresolved uncertainties, and what domain study can safely be skipped	Usually nothing after closure; a concrete recurring failure if observed
 C. Lightning talk	Audience, allotted time, purpose, candidate material	Choose one takeaway and cap prep; pursue collaborators only if there is a real invitation or useful next step	Talk spine, demonstration choice, stopping rule	Material follow-up or observed adoption—not presentation delivery automatically
-D. Shared AI channel	Manually pasted thread and Adrien’s possible contribution	Respond only if it adds missing value; silence is valid	“Skip,” or a concise contribution with rationale	Nothing unless a commitment or meaningful collaboration results
-E. Repeated AI-slop failures	Several specific examples and their consequences	First distinguish a shared cause from superficial similarity; test a narrow intervention before building a system	A bounded checklist/test experiment with an adoption and stopping condition	Source-backed pattern and trial outcome; active work only if Adrien commits
+D. Shared AI channel	Manually pasted thread and User’s possible contribution	Respond only if it adds missing value; silence is valid	“Skip,” or a concise contribution with rationale	Nothing unless a commitment or meaningful collaboration results
+E. Repeated AI-slop failures	Several specific examples and their consequences	First distinguish a shared cause from superficial similarity; test a narrow intervention before building a system	A bounded checklist/test experiment with an adoption and stopping condition	Source-backed pattern and trial outcome; active work only if User commits
 F. New technique	Current workflow, actual bottleneck, candidate technique or an explicit request to investigate	Test only if it could change the bottleneck enough to justify switching cost	A comparison question, bounded experiment, and stop condition; no invented claim of recency	Only a useful result or decision; not a permanent novelty backlog
-In manual v0, D–F do not happen unless Adrien supplies the signal. That is an intentional coverage limit, not a defect to solve immediately.
+In manual v0, D–F do not happen unless User supplies the signal. That is an intentional coverage limit, not a defect to solve immediately.
 
 F. Documentation boundary
 
@@ -166,7 +166,7 @@ Three behaviors and the six scenario tests.
 No assumption of frontier-model runtime access.
 The first execution task is to test those behaviors on the actual work-approved model using synthetic scenarios. Any failure should first lead to simpler instructions or narrower responsibilities, not more agents.
 
-Spec Kit’s value remains empirical: does it improve that handoff without generating artifacts Adrien must continually reconcile? Framework adoption itself is not a prerequisite for implementation.
+Spec Kit’s value remains empirical: does it improve that handoff without generating artifacts User must continually reconcile? Framework adoption itself is not a prerequisite for implementation.
 
 H. Final verdict
 

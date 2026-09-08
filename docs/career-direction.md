@@ -6,7 +6,7 @@ It is not a job description, company list, or title target.
 
 ## Target work
 
-Adrien wants to:
+User wants to:
 - build **capability-multiplying systems**
 - especially systems that help builders create better products
 - work on AI-native developer tools, workflows, platforms, or development systems
@@ -20,13 +20,13 @@ Adrien wants to:
 The strongest desired environmental properties are:
 
 ### High idea density
-People regularly expose Adrien to valuable things he did not already know.
+People regularly expose User to valuable things the user did not already know.
 
 ### High idea permeability
 People actively share experiments, hacks, techniques, failures, papers, prototypes, and half-formed ideas.
 
 ### Strong peer gradient
-Adrien is routinely pulled forward by peers rather than supplying most of the novelty himself.
+User is routinely pulled forward by peers rather than supplying most of the novelty himself.
 
 ### Low idea-to-reality friction
 Useful ideas can move quickly into experiments, prototypes, systems, and adoption.
@@ -47,7 +47,7 @@ Leadership materially behaves as though AI is strategically transformative.
 
 ## Contribution shape
 
-Adrien expects to contribute quickly even when entering a stronger technical environment through some combination of:
+User expects to contribute quickly even when entering a stronger technical environment through some combination of:
 - software engineering
 - systems thinking
 - developer experience
@@ -67,7 +67,7 @@ Adrien expects to contribute quickly even when entering a stronger technical env
 
 - materially stronger compensation
 - remote/flexible work strongly desirable
-- work must not be meaningfully negative in Adrien's judgment
+- work must not be meaningfully negative in User's judgment
 
 ## Mobility dimensions
 
@@ -75,12 +75,12 @@ Career OS should distinguish current-job effectiveness from mobility toward this
 
 External mobility has six lenses:
 
-- **Eligibility** — can Adrien do the target work?
-- **Evidence** — can he credibly prove it?
+- **Eligibility** — can User do the target work?
+- **Evidence** — can the user credibly prove it?
 - **Legibility** — will the external market recognize that evidence?
-- **Access** — can he reach the relevant people/environments?
-- **Readiness** — can he act when the right opportunity appears?
-- **Selection judgment** — can he recognize whether a role actually has the desired habitat?
+- **Access** — can the user reach the relevant people/environments?
+- **Readiness** — can the user act when the right opportunity appears?
+- **Selection judgment** — can the user recognize whether a role actually has the desired habitat?
 
 Internal work may contribute to these, but Career OS must not infer that local success automatically means increased external mobility.
 

@@ -4,7 +4,7 @@ This file records decisions that future agents are likely to otherwise rediscove
 
 ## D001 — Scope Career OS to professional work
 
-**Decision:** Career OS optimizes roughly the professional 40-hour side of Adrien's life. It is not a whole-life operating system.
+**Decision:** Career OS optimizes roughly the professional 40-hour side of User's life. It is not a whole-life operating system.
 
 **Reason:** The broader life-allocation problem is valuable but too large. Career is a domain where there is a clear "there there" and where the system can be evaluated.
 
@@ -14,7 +14,7 @@ This file records decisions that future agents are likely to otherwise rediscove
 
 **Decision:** Career direction is a first-class canonical input.
 
-**Reason:** A system that only optimizes current-job performance could make Adrien increasingly successful in a habitat he ultimately wants to leave.
+**Reason:** A system that only optimizes current-job performance could make User increasingly successful in a habitat the user ultimately wants to leave.
 
 ---
 
@@ -38,7 +38,7 @@ This file records decisions that future agents are likely to otherwise rediscove
 
 ## D005 — Do not model every artifact as a durable WorkObject
 
-**Decision:** A work object/case exists when Adrien needs an engagement decision or a commitment must be retained.
+**Decision:** A work object/case exists when User needs an engagement decision or a commitment must be retained.
 
 **Reason:** Treating every meeting, Slack thread, project, doc, and idea as a normalized object creates a second inbox/project-management system.
 
@@ -150,4 +150,4 @@ Add:
 - skills when the same reasoning pattern repeatedly recurs
 - workers when bounded work is too large for the CoS
 
-**Reason:** Adrien has strong system-building instincts and can overinvest in elegant machinery before need is proven.
+**Reason:** User has strong system-building instincts and can overinvest in elegant machinery before need is proven.

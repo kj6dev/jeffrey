@@ -2,7 +2,11 @@
 
 The package comes from the “AI Career Direction” chat, conversation `6a9ae9ff-8710-83e8-9874-4ed6e09af061`, following the “Go” turn `a100dfc3-8c75-4a12-9b65-1c34072375cf`. Imported on 2026-09-08 from `~/Downloads/career-os-repo.zip`.
 
-The [original archive](../imports/2026-09-08-career-os/career-os-repo.zip) and [hash manifest](../imports/2026-09-08-career-os/provenance.json) preserve all 22 source files. The package's AGENTS.md is retained as [source evidence](../imports/2026-09-08-career-os/AGENTS.original.md); workspace instructions are merged into the root AGENTS.md. README.md adds a navigation note. All other imported files retain their original contents. The package's MANIFEST.md describes that package, not the complete merged workspace.
+The [archived package](../imports/2026-09-08-career-os/career-os-repo.zip) and [hash manifest](../imports/2026-09-08-career-os/provenance.json) preserve all 22 source files. The package's AGENTS.md is retained as [source evidence](../imports/2026-09-08-career-os/AGENTS.original.md); workspace instructions are merged into the root AGENTS.md. README.md adds a navigation note. Imported content retains its design meaning; identity substitutions are described below. The package's MANIFEST.md describes that package, not the complete merged workspace.
+
+## Generic distribution
+
+At the user's request, the published documents and bundled ZIP use generic identity labels and paths. The archive is now a generic derivative, not a byte-for-byte original download. The provenance hashes describe its transformed source files. The original download remains outside this repository. This editorial change applies to the baseline and its trial copies without changing behavior. Earlier Git commits retain the original wording.
 
 ## Authority
 
@@ -18,4 +22,4 @@ c. `docs/future-capabilities.md` preserves a broader candidate set of sensors, r
 
 ## Next action
 
-Reconcile the packaged runtime prompt and evaluation references with the frozen safeguards, then run synthetic Decide/Prepare/Close validation on the actual work-approved model. Preserve the original import as evidence while evolving the working documents from explicit decisions and observed failures.
+Reconcile the packaged runtime prompt and evaluation references with the frozen safeguards, then run synthetic Decide/Prepare/Close validation on the actual work-approved model. Preserve the generic import as evidence while evolving the working documents from explicit decisions and observed failures.

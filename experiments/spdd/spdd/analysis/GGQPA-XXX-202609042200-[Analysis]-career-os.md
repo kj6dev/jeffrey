@@ -6,13 +6,13 @@
 
 ## Instruction to Codex
 
-Use this file as the complete source contract for Adrien’s Career OS experiment. The conceptual design has already received an Astra adversarial review. Preserve the frozen model below. Your next task is a bounded specification experiment: Spec Kit first, then SPDD independently, then compare. Do not implement the product during these trials. Do not restart discovery or add architecture unless a scenario exposes a concrete blocker. Label assumptions and proposed changes; never silently rewrite this baseline.
+Use this file as the complete source contract for User’s Career OS experiment. The conceptual design has already received an Astra adversarial review. Preserve the frozen model below. Your next task is a bounded specification experiment: Spec Kit first, then SPDD independently, then compare. Do not implement the product during these trials. Do not restart discovery or add architecture unless a scenario exposes a concrete blocker. Label assumptions and proposed changes; never silently rewrite this baseline.
 
 ## Purpose and target habitat
 
-Help Adrien allocate limited attention responsibly: meet real work obligations, focus human judgment where it matters, and turn selected work into relevant capabilities and credible career options. Optimize useful attention decisions, preparation, and selective memory. Task throughput, internal visibility, exhaustive capture, and automation are not success measures.
+Help User allocate limited attention responsibly: meet real work obligations, focus human judgment where it matters, and turn selected work into relevant capabilities and credible career options. Optimize useful attention decisions, preparation, and selective memory. Task throughput, internal visibility, exhaustive capture, and automation are not success measures.
 
-The target habitat is near-frontier, AI-native product engineering that multiplies people’s capabilities: strong, exploratory peers; exposure to people Adrien can learn from; low friction from idea to real use; genuine experimental bandwidth; good compensation and flexibility. Local effectiveness and external mobility are distinct. Career alignment never excuses inadequate review or forgotten obligations.
+The target habitat is near-frontier, AI-native product engineering that multiplies people’s capabilities: strong, exploratory peers; exposure to people User can learn from; low friction from idea to real use; genuine experimental bandwidth; good compensation and flexibility. Local effectiveness and external mobility are distinct. Career alignment never excuses inadequate review or forgotten obligations.
 
 External market reference provides calibration through relevant job postings, role expectations, and evidence about actual working environments. Treat the job-posting pipeline as an external source, not something to build or integrate in v0. Manually supplied, dated references may inform Context. Distinguish capability fit, credible evidence, legibility, access, readiness, and selection judgment. Internal accomplishments alone cannot establish improved employability or employer habitat quality; missing external calibration means unknown.
 
@@ -38,7 +38,7 @@ Notice → Value → Prepare → Do → Extract → Remember remains a conceptua
 
 ## v0 operating boundary
 
-Use manual input and loading, concise recommendations, and human-approved durable edits. Correctness must not depend on file-editing capability. Adrien owns decisions. Ask only for missing information that could materially change the recommendation.
+Use manual input and loading, concise recommendations, and human-approved durable edits. Correctness must not depend on file-editing capability. User owns decisions. Ask only for missing information that could materially change the recommendation.
 
 No autonomous communication, execution, monitoring, calendar management, ingestion integrations, agent orchestration, specialized skill library, organizational encyclopedia, vector database, or new project-management system. No automatic task-plan expansion. Existing workers are optional tools, not infrastructure to create. Manual coverage means shared-channel activity, recurring failures, and new techniques remain unseen until supplied.
 
@@ -52,14 +52,14 @@ Keep design documentation separate from operational state. Prompts point to muta
 2. **Unfamiliar PR:** Given scope, risks, and available approved inspection findings, recommend review depth based on responsibility and failure risk. Identify human review focus, unresolved uncertainty, and safely skippable domain study. Close the obligation; normally retain no outcome. AI findings do not replace adequate human understanding.
 3. **Lightning talk:** Given audience, purpose, available speaking slot, and candidate material, choose one takeaway, a talk spine, a demonstration, and a preparation stopping rule. Retain meaningful follow-up or observed adoption; delivery alone is not evidence of impact.
 4. **Shared AI channel:** Given a pasted thread and possible contribution, recommend silence or a concise contribution that adds missing value. Do not send it. Persist only a resulting commitment or meaningful collaboration.
-5. **Repeated AI-generated failures:** Given concrete examples and consequences, distinguish a common cause from superficial resemblance. Propose a narrow checklist or test intervention with adoption and stopping conditions before reusable machinery. Retain a source-backed pattern and trial result; create Active Work only if Adrien commits.
+5. **Repeated AI-generated failures:** Given concrete examples and consequences, distinguish a common cause from superficial resemblance. Propose a narrow checklist or test intervention with adoption and stopping conditions before reusable machinery. Retain a source-backed pattern and trial result; create Active Work only if User commits.
 6. **New technique:** Given a workflow, actual bottleneck, and candidate technique or explicit investigation request, assess benefit against switching cost. Propose a bounded comparison and stopping condition only if warranted. Never invent recency or maintain a novelty backlog; retain only useful results or decisions.
 
 ## Evaluation
 
 For each scenario, inspect the recommendation, proposed state changes, uncertainty handling, and stopping rule. Include missing-context inputs and unresolved commitments. Hard failures include invented facts, dropped obligations, unsupported impact or mobility claims, unauthorized actions or data movement, and added infrastructure outside v0.
 
-Sample consequential real cases by recording Adrien’s intended approach before advice and the later result. Assess whether advice changed attention allocation and whether that change was useful, harmful, or uncertain; whether preparation saved reconstruction or exposed an omission; and whether retained state helped without cleanup. Compare predicted and actual value periodically, not after every interaction. Agree a maintenance ceiling before real use; simplify if upkeep exceeds it. Immediate usefulness and delayed career outcomes must remain separate.
+Sample consequential real cases by recording User’s intended approach before advice and the later result. Assess whether advice changed attention allocation and whether that change was useful, harmful, or uncertain; whether preparation saved reconstruction or exposed an omission; and whether retained state helped without cleanup. Compare predicted and actual value periodically, not after every interaction. Agree a maintenance ceiling before real use; simplify if upkeep exceeds it. Immediate usefulness and delayed career outcomes must remain separate.
 
 ## Experiment protocol and next deliverables
 
